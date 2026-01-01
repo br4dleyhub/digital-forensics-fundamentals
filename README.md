@@ -10,3 +10,12 @@ can be used to reconstruct events during a security incident.
 ## Disclaimer
 All evidence used in this project is simulated.
 No real user data or production systems are involved.
+
+## Conclusion
+
+This project demonstrated how digital forensic techniques can be used
+to analyze system logs, reconstruct timelines, and assess potential
+security incidents.
+
+The lab emphasized ethical investigation, evidence integrity,
+and clear documentation of findings.

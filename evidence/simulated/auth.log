@@ -1,0 +1,6 @@
+2026-01-10 09:01:12 LOGIN_ATTEMPT user=alice status=FAIL
+2026-01-10 09:01:20 LOGIN_ATTEMPT user=alice status=FAIL
+2026-01-10 09:01:35 LOGIN_ATTEMPT user=alice status=SUCCESS
+2026-01-10 09:05:10 FILE_ACCESS user=alice file=report.pdf action=READ
+2026-01-10 09:06:55 FILE_ACCESS user=alice file=report.pdf action=MODIFY
+2026-01-10 09:10:02 LOGIN_ATTEMPT user=bob status=FAIL
